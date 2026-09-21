@@ -316,4 +316,4 @@ rusle-soil-erosion-analysis/
 
 ## Citation
 
-If you use this workflow in scientific work, please cite the underlying RUSLE method references listed in Section 1, and consider citing the datasets used (CHIRPS, MODIS MCD12Q1, MOD13Q1, SRTM, HydroSHEDS, OpenLandMap).
+Test
